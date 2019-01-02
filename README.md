@@ -18,8 +18,6 @@
 [image5]: ./new/05.png "Sign 5"
 [image6]: ./new/06.png "Sign 6" 
 
-The code for this project can be found [on GitHub](https://github.com/fazzolini/CarND-Term1-P2).
-
 ### Data Set Summary & Exploration
 
 #### 1. Basic summary of the data set.
@@ -178,8 +176,3 @@ The only image for which the model is not confident, turns out to be the image w
 |:---------------------:|:---------------------------------------------:| 
 | 0.6890 | [Class 37] Go Straight or Left |
 | 0.3099 | [Class 39] Keep Left |
-
-### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
-#### I decided not to provide discussion for neural network visualization.
-
-
